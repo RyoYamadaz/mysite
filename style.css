@@ -1,0 +1,87 @@
+body{
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.offcanvas-body{
+    text-align: left;
+}
+
+.menu-btn:hover{
+    text-decoration: underline;
+    text-underline-offset: 4px;
+}
+.menu-btn:focus{
+    border: none;
+    outline: none;
+}
+.dropup{
+    right: 10px;
+    top: 20px;
+}
+
+.cloud-top{
+    right: 10%;
+}
+.cloud-bottom{
+    left: 20%;
+}
+
+.header{
+    padding-top: 120px;
+    background: rgb(225, 236, 255);
+}
+.header h1{
+    font-family: 'Sacramento', fantasy;
+    font-size: 4.4rem;
+    font-weight: bold;
+}
+.header p{
+    font-family: 'Ubuntu';
+}
+
+.middle-container{
+    padding: 0 10% 0 10%;
+}
+hr{
+    border: dotted #32c7f8 6px ;
+    border-bottom: none;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bio-pics{
+    border-radius: 100%;
+    width: 40%;
+}
+
+h2{
+    font-weight: bold;
+    color: rgb(0, 145, 255);
+}
+
+.profile{
+    margin: 100px auto;
+}
+.profile-pic{
+    width: 25%;
+    border-radius: 100%;
+}
+
+.touch {
+    text-align: left;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.btn-primary{
+    display: inline-block;
+    width: auto;
+    margin: auto;
+}
+
+.bottom-container{
+    background: #32c7f8;
+    padding: 20px 0 30px;
+}
